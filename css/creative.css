@@ -9587,7 +9587,10 @@ hr.light {
 .page-section {
   padding: 8rem 0;
 }
-
+#adobeimg {
+  height: 70px;
+  width: 70px;
+}
 #mainNav {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
   background-color: #fff;
@@ -9658,7 +9661,7 @@ hr.light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 72px);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("https://mapio.net/images-p/11655317.jpg");
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("https://scontent.fsin6-1.fna.fbcdn.net/v/t1.0-9/68400404_2517271551627668_5540569766743244800_n.jpg?_nc_cat=100&_nc_oc=AQl_EUsD6uHkGjg6F8OO95dWTvPNfz3b0u6wMGREn4f25LFr1S5cfsN1s6gV3_6B0oM&_nc_ht=scontent.fsin6-1.fna&oh=530952acf9dc2e3aa354bb4039a4c7bb&oe=5DF792A5");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
