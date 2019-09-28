@@ -2262,8 +2262,8 @@ fieldset:disabled a.btn {
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #f24516;
-  border-color: #ee3e0d;
+  background-color: #659EC7;
+  border-color: #659EC7;
 }
 
 .btn-primary:focus, .btn-primary.focus {
@@ -9564,7 +9564,7 @@ html {
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
-  border-color: #f4623a;
+  border-color: #659EC7;
 }
 
 hr.light {
@@ -9613,7 +9613,7 @@ hr.light {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #f4623a !important;
+  color: #659EC7 !important;
 }
 
 @media (min-width: 992px) {
