@@ -9587,7 +9587,10 @@ hr.light {
 .page-section {
   padding: 8rem 0;
 }
-
+#adobeimg {
+  height: 70px;
+  width: 70px;
+}
 #mainNav {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
   background-color: #fff;
